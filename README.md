@@ -4,23 +4,23 @@ List of papers accepted in ECCV 2024.
 
 #### SMooDi: Stylized Motion Diffusion Model
 Lei Zhong, Yiming Xie, Varun Jampani, Deqing Sun, Huaizu Jiang*
-<br>[arXiv]() [Code]() 
+<br>[arXiv](https://arxiv.org/abs/2407.12783) [Code](https://neu-vi.github.io/SMooDi/) 
 
 #### SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
 Vikram Voleti*, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitrii Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani*
-<br>[arXiv]() [Code]()
+<br>[arXiv](https://arxiv.org/abs/2403.12008) [Code]()
 
 #### EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation
 Wenyang Zhou, Zhiyang Dou*, Zeyu Cao, Zhouyingcheng Liao, Jingbo Wang, Wenjia Wang, Yuan Liu, Taku Komura, Wenping Wang, Lingjie Liu
-<br>[arXiv]() [Code]()
+<br>[arXiv](https://arxiv.org/abs/2312.02256) [Code]()
 
 #### Diffusion Bridges for 3D Point Cloud Denoising
 Mathias Vogel Hüni, Keisuke Tateno, Marc Pollefeys, Federico Tombari, Marie-Julie Rakotosaona, Francis Engelmann*
-<br>[arXiv]() [Code]()
+<br>[arXiv](https://arxiv.org/abs/2408.16325) [Code]()
 
 #### VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models
 Junlin Han*, Filippos Kokkinos, Philip Torr
-<br>[arXiv]() [Code]()
+<br>[arXiv](https://arxiv.org/abs/2403.12034) [Code]()
 
 #### Beta-Tuned Timestep Diffusion Model
 Tianyi Zheng*, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang*, Bo Li*
