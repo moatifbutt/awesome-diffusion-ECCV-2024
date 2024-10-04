@@ -1,4 +1,5 @@
 # Diffusion papers in ECCV 2024
+List of papers accepted in ECCV 2024.
 <hr>
 
 #### SMooDi: Stylized Motion Diffusion Model
