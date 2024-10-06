@@ -632,77 +632,77 @@ Sunjae Yoon, Gwanhyeong Koo, Ji Woo Hong, Chang D. Yoo*
 #### Diffusion-Guided Weakly Supervised Semantic Segmentation
 Sung-Hoon Yoon, Hoyong Kwon, Jaeseok Jeong, Daehee Park, Kuk-Jin Yoon*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06482.pdf) [Code]()
 
 #### Improving Virtual Try-On with Garment-focused Diffusion Models
 Siqi Wan, Yehao Li, Jingwen Chen, Yingwei Pan*, Ting Yao, Yang Cao, Tao Mei
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2409.08258) [Code]()
 
 #### Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control
 Yue Han*, Junwei Zhu, Keke He, Xu Chen, Yanhao Ge, Wei Li, Xiangtai Li, Jiangning Zhang, Chengjie Wang, Yong Liu
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2405.12970) [Code]()
 
 #### Diffusion Models as Optimizers for Efficient Planning in Offline RL
 Renming Huang, Yunqiang Pei, Guoqing Wang*, Yangming Zhang, Yang Yang, Peng Wang, Heng Tao Shen
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.16142) [Code]()
 
 #### HiDiffusion: Unlocking Higher-Resolution Creativity and Efficiency in Pretrained Diffusion Models
 Shen Zhang, Zhaowei CHEN, Zhenyu Zhao, Yuhao Chen, Yao Tang, Jiajun Liang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.17528) [Code]()
 
 #### Dolfin: Diffusion Layout Transformers without Autoencoder
 Yilin Wang, Zeyuan Chen, Liangjun Zhong, Zheng Ding, Zhuowen Tu*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2310.16305) [Code]()
 
 #### StructLDM: Structured Latent Diffusion for 3D Human Generation
 Tao Hu, Fangzhou Hong, Ziwei Liu*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.01241) [Code]()
 
 #### Beyond the Contact: Discovering Comprehensive Affordance for 3D Objects from Pre-trained 2D Diffusion Models
 Hyeonwoo Kim, Sookwan Han, Patrick Kwon, Hanbyul Joo*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2401.12978) [Code]()
 
 #### DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks
 Caixin Kang*, Yinpeng Dong, Zhengyi Wang, Shouwei Ruan, Yubo Chen, Hang Su*, Xingxing Wei*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2306.09124) [Code]()
 
 #### Hybrid Video Diffusion Models with 2D Triplane and 3D Wavelet Representation
 Kihong Kim, Haneol Lee, Jihye Park, Seyeon Kim, Kwang Hee Lee, Seungryong Kim*, Jaejun Yoo*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2402.13729) [Code]()
 
 #### Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation
 Yeongtak Oh, Jonghyun Lee, Jooyoung Choi, Dahuin Jung, Uiwon Hwang*, Sungroh Yoon*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.10911) [Code]()
 
 #### Adaptive Multi-modal Fusion of Spatially Variant Kernel Refinement with Diffusion Model for Blind Image Super-Resolution
 Junxiong Lin*, Yan Wang, Zeng Tao, Boyang Wang, Qing Zhao, Haoran Wang, Xuan Tong, Xinji Mai, Yuxuan Lin, Wei Song, Jiawen Yu, Shaoqi Yan, Wenqiang Zhang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.05808) [Code]()
 
 #### Reliable and Efficient Concept Erasure of Text-to-Image Diffusion Models
 Chao Gong*, Kai Chen, Zhipeng Wei, Jingjing Chen*, Yu-Gang Jiang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.12383) [Code]()
 
 #### Length-Aware Motion Synthesis via Latent Diffusion
 Alessio Sampieri*, Alessio Palma, Indro Spinelli, Fabio Galasso
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.11532) [Code]()
 
 #### Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model
 Danni Yang, Ruohan Dong, Jiayi Ji, Yiwei Ma, Haowei Wang, Xiaoshuai Sun*, Rongrong Ji
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.05352) [Code]()
 
 #### Improving image synthesis with diffusion-negative sampling
 Alakh Desai*, Nuno Vasconcelos
