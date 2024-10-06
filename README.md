@@ -777,37 +777,37 @@ Kumara Kahatapitiya*, Adil Karjauv, Davide Abati*, Fatih Porikli, Yuki M Asano, 
 #### Diffusion for Natural Image Matting
 Yihan Hu*, Yiheng Lin, Wei Wang, Yao Zhao, Yunchao Wei*, Humphrey Shi
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.05915) [Code]()
 
 #### Unleashing Text-to-Image Diffusion Prior for Zero-Shot Image Captioning
 Jianjie Luo, Jingwen Chen, Yehao Li, Yingwei Pan*, Jianlin Feng, Hongyang Chao, Ting Yao
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07445.pdf) [Code]()
 
 #### Factorized Diffusion: Perceptual Illusions by Noise Decomposition
 Daniel Geng*, Inbum Park, Andrew Owens
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.11615) [Code]()
 
 #### To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now
 Yimeng Zhang*, jinghan jia, Xin Chen, Aochuan Chen, Yihua Zhang, Jiancheng Liu, Ke Ding, Sijia Liu
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2310.11868) [Code]()
 
 #### FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation
 Xinzhi Mu*, Li Chen, Bohan CHEN, Shuyang Gu, Jianmin Bao, Dong Chen, Ji Li, Yuhui Yuan
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2406.08392) [Code]()
 
 #### One-Shot Diffusion Mimicker for Handwritten Text Generation
 Gang Dai, Yifan Zhang, Quhui Ke, Qiangya Guo, Shuangping Huang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.arxiv.org/abs/2409.04004) [Code]()
 
 #### Kernel Diffusion: An Alternate Approach to Blind Deconvolution
 Yash Sanghvi*, Yiheng Chi, Stanley Chan
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.02319) [Code]()
 
 #### ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction
 Shaozhe Hao*, Kai Han*, Zhengyao Lv, Shihao Zhao, Kwan-Yee K. Wong*
