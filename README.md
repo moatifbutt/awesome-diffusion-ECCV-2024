@@ -812,516 +812,508 @@ Yash Sanghvi*, Yiheng Chi, Stanley Chan
 #### ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction
 Shaozhe Hao*, Kai Han*, Zhengyao Lv, Shihao Zhao, Kwan-Yee K. Wong*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.07077) [Code]()
 
 #### TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models
 Jeongho Kim*, Min-Jung Kim*, Junsoo Lee, Jaegul Choo*
 <br>
-[arXiv]() [Code]()
+[arXiv](http://arxiv.org/abs/2407.09012) [Code]()
 
 #### DiffBIR: Toward Blind Image Restoration with Generative Diffusion Prior
 Xinqi Lin*, Jingwen He, Ziyan Chen, Zhaoyang Lyu, Bo Dai, Fanghua Yu, Yu Qiao, Wanli Ouyang, Chao Dong*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2308.15070) [Code]()
 
 #### Do text-free diffusion models learn discriminative visual representations?
 Soumik Mukhopadhyay*, Matthew A Gwilliam*, Yosuke Yamaguchi, Vatsal Agarwal, Namitha Padmanabhan, Archana Swaminathan, Tianyi Zhou, Jun Ohya, Abhinav Shrivastava
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.17921) [Code]()
 
 #### LogoSticker: Inserting Logos into Diffusion Models for Customized Generation
 Mingkang Zhu, Xi CHEN, Zhongdao Wang, Hengshuang Zhao*, Jiaya Jia*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.13752) [Code]()
 
 #### ProCreate, Don't Reproduce! Propulsive Energy Diffusion for Creative Generation
 Jack Lu*, Ryan Teehan*, Mengye Ren*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2408.02226) [Code]()
 
 #### IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination
 Xi Chen*, Sida Peng, Dongchen Yang, Yuan Liu, Bowen Pan, Chengfei Lyu, Xiaowei Zhou*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.11593) [Code]()
 
 #### Mixture of Efficient Diffusion Experts Through Automatic Interval and Sub-Network Selection
 Alireza Ganjdanesh*, Yan Kang, Yuchen Liu, Richard Zhang, Zhe Lin, Heng Huang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2409.15557) [Code]()
 
 #### Compensation Sampling for Improved Convergence in Diffusion Models
 Hui Lu*, Albert Ali Salah, Ronald Poppe
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.06285) [Code]()
 
 #### Lossy Image Compression with Foundation Diffusion Models
 Lucas Relic*, Roberto Azevedo, Markus Gross, Christopher Schroers*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.08580) [Code]()
 
 #### FMBoost: Boosting Latent Diffusion with Flow Matching
 Johannes S Fischer*, Ming Gui, Pingchuan Ma, Nick Stracke, Stefan Andreas Baumann, Vincent Tao Hu, Björn Ommer
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.07360) [Code]()
 
 #### Diffusion Models as Data Mining Tools
 Ioannis Siglidis*, Aleksander Holynski, Alexei A. Efros, Mathieu Aubry, Shiry Ginosar
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2408.02752) [Code]()
 
 #### Photorealistic Object Insertion with Diffusion-Guided Inverse Rendering
 Ruofan Liang, Zan Gojcic, Merlin Nimier-David, David Acuna, Nandita Vijaykumar, Sanja Fidler, Zian Wang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2408.09702) [Code]()
 
 #### MobileDiffusion: Instant Text-to-Image Generation on Mobile Devices
 Yang Zhao*, Zhisheng Xiao*, Yanwu Xu, Haolin Jia, Tingbo Hou
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.16567) [Code]()
 
 #### Osmosis: RGBD Diffusion Prior for Underwater Image Restoration
 Opher Bar Nathan*, Deborah Levy, Tali Treibitz, Dan Rosenbaum
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.14837) [Code]()
 
 #### Large-scale Reinforcement Learning for Diffusion Models
 Yinan Zhang*, Eric Tzeng, Yilun Du, Dmitry Kislyuk*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2401.12244) [Code]()
 
 #### CoMusion: Towards Consistent Stochastic Human Motion Prediction via Motion Diffusion
 Jiarui Sun*, Girish Chowdhary*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2305.12554) [Code]()
 
 #### EditShield: Protecting Unauthorized Image Editing by Instruction-guided Diffusion Models
 Ruoxi Chen, Haibo Jin, Yixin Liu, Jinyin Chen*, Haohan Wang, Lichao Sun
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.12066) [Code]()
 
 #### Contrasting Deepfakes Diffusion via Contrastive Learning and Global-Local Similarities
 Lorenzo Baraldi*, Federico Cocchi, Marcella Cornia, Lorenzo Baraldi, Alessandro Nicolosi, Rita Cucchiara
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.20337) [Code]()
 
 #### Diffusion Soup: Model Merging for Text-to-Image Diffusion Models
 Benjamin J Biggs*, Arjun Seshadri, Yang Zou, Achin Jain, Aditya Golatkar, Yusheng Xie, Alessandro Achille, Ashwin Swaminathan, Stefano Soatto
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2406.08431) [Code]()
 
 #### DEPICT: Diffusion-Enabled Permutation Importance for Image Classification Tasks
 Sarah Jabbour*, Gregory Kondas, Ella Kazerooni, Michael Sjoding, David Fouhey, Jenna Wiens
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.14509) [Code]()
 
 #### BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion
 Gwanghyun Kim, Hayeon Kim, Hoigi Seo, Dong Un Kang, Se Young Chun*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.04544) [Code]()
 
 #### Viewpoint textual inversion: discovering scene representations and 3D view control in 2D diffusion models
 James Burgess*, Kuan-Chieh Wang, Serena Yeung-Levy
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2309.07986) [Code]()
 
 #### Loc3Diff: Local Diffusion for 3D Human Head Synthesis and Editing
 Yushi Lan*, Feitong Tan, Qiangeng Xu, Di Qiu, Kyle Genova, Zeng Huang, Rohit Pandey, Sean Fanello, Thomas Funkhouser, Chen Change Loy, Yinda Zhang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08166.pdf) [Code]()
 
 #### Diff-Reg: Diffusion Model in Doubly Stochastic Matrix Space for Registration Problem
 Qianliang Wu*, Haobo Jiang*, Lei Luo, Jun Li, Yaqing Ding*, Jin Xie*, Jian Yang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/pdf/2403.19919) [Code]()
 
 #### Investigating Style Similarity in Diffusion Models
 Gowthami Somepalli*, Anubhav Gupta, Kamal Gupta, Shramay Palta, Micah Goldblum, Jonas A. Geiping, Abhinav Shrivastava, Tom Goldstein
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.01292) [Code]()
 
 #### Timestep-Aware Correction for Quantized Diffusion Models
 Yuzhe Yao, Feng Tian, Jun Chen*, Haonan Lin, Guang Dai, Yong Liu, Jingdong Wang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.03917) [Code]()
 
 #### VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving
 YIBO LIU*, Zheyuan Yang, Guile Wu, Yuan Ren, Kejian Lin, Liu Bingbing, Yang Liu, JINJUN SHAN
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.06516) [Code]()
 
 #### Unmasking Bias in Diffusion Model Training
 Hu Yu, Li Shen, Jie Huang, Hongsheng Li, Feng Zhao*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2310.08442) [Code]()
 
 #### Layered Rendering Diffusion Model for Controllable Zero-Shot Image Synthesis
 Zipeng Qi, Guoxi Huang*, Chenyang Liu, Fei Ye
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.18435) [Code]()
 
 #### A Simple Background Augmentation Method for Object Detection with Diffusion Model
 Yuhang Li, Xin Dong, Chen Chen, Weiming Zhuang, Lingjuan Lyu*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2408.00350) [Code]()
 
 #### Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion
 Sanghyun Kim*, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.21032) [Code]()
 
 #### An Explainable Vision Question Answer Model via Diffusion Chain-of-Thought
 Chunhao LU, Qiang Lu*, Jake Luo
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08395.pdf) [Code]()
 
 #### FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation
 Chenliang Zhou*, Fangcheng Zhong, Param Hanji, Zhilin Guo, Kyle Thomas Fogarty, Alejandro Sztrajman, Hongyun Gao, A. Cengiz Oztireli
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.12090) [Code]()
 
 #### GAMMA-FACE: GAussian Mixture Models Amend Diffusion Models for Bias Mitigation in Face Images
 Basudha Pal*, Arunkumar Kannan*, Ram Prabhakar Kathirvel, Alice O'Toole, Rama Chellappa
 <br>
-[arXiv]() [Code]()
+[arXiv](https://bas-2k.github.io/gamma-face/) [Code]()
 
 #### PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation in non-English Text-to-Image Generation
 jian ma, Chen Chen*, Qingsong Xie, Haonan Lu*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.17086) [Code]()
 
 #### Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation
 Duy Tho Le*, Hengcan Shi*, Jianfei Cai, Hamid Rezatofighi
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/html/2404.04629v1) [Code]()
 
 #### Self-Guided Generation of Minority Samples Using Diffusion Models
 Soobin Um, Jong Chul Ye*
 <br>
-[arXiv]() [Code]()
-
-#### Class-Agnostic Object Counting with Text-to-Image Diffusion Model
-Xiaofei Hui, Qian Wu, Hossein Rahmani, Jun Liu*
-<br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.11555) [Code]()
 
 #### Pyramid Diffusion for Fine 3D Large Scene Generation
 Yuheng Liu*, Xinke Li, Xueting Li, Lu Qi*, Chongshou Li, Ming-Hsuan Yang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.12085) [Code]()
 
 #### ShoeModel: Learning to Wear on the User-specified Shoes via Diffusion Model
 Wenyu Li*, Binghui Chen, Yifeng Geng, Xuansong Xie, Wangmeng Zuo
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.04833) [Code]()
 
 #### A Watermark-Conditioned Diffusion Model for IP Protection
 Rui Min*, Sen Li*, Hongyang Chen*, Minhao Cheng*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.10893) [Code]()
 
 #### Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models
 Juntu Zhao, Junyu Deng, Yixin Ye, Chongxuan Li, Zhijie Deng*, Dequan Wang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2408.00230) [Code]()
 
 #### Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression
 Animesh Sinha*, Bo Sun, Anmol Kalia, Arantxa Casanova, Elliot Blanchard, David Yan, Winnie Zhang, Tony Nelli, Jiahui Chen, Hardik Shah, Licheng Yu, Mitesh Kumar Singh, Ankit Ramchandani, Maziar Sanjabi, Sonal Gupta, Amy L Bearman, Dhruv Mahajan
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.10794) [Code]()
 
 #### GLAD: Towards Better Reconstruction with Global and Local Adaptive Diffusion Models for Unsupervised Anomaly Detection
 Hang Yao, Ming Liu*, Zhicun Yin, Zifei Yan, Xiaopeng Hong, Wangmeng Zuo
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2406.07487) [Code]()
 
 #### CipherDM: Secure Three-Party Inference for Diffusion Model Sampling
 Xin Zhao, Xiaojun Chen*, Xudong Chen, He Li, Tingyu Fan, Zhendong Zhao
 <br>
-[arXiv]() [Code]()
-
-#### Chains of Diffusion Models
-Yanheng Wei*, Lianghua Huang*, Zhi-Fan Wu, Wei Wang, Yu Liu, Mingda Jia, Shuailei Ma
-<br>
-[arXiv]() [Code]()
+[arXiv](https://www.arxiv.org/abs/2409.05414) [Code]()
 
 #### Time-Efficient and Identity-Consistent Virtual Try-On Using A Variant of Altered Diffusion Models
 Phuong Hoang Dam*, Jihoon Jeong*, Anh T Tran*, Daeyoung Kim*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.07371) [Code]()
 
 #### Self-Rectifying Diffusion Sampling with Perturbed-Attention Guidance
 Donghoon Ahn, Hyoungwon Cho, Jaewon Min, Jungwoo Kim, Wooseok Jang, SeonHwa Kim, Hyun Hee Park, Kyong Hwan Jin*, Seungryong Kim*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.17377) [Code]()
 
 #### FRDiff : Feature Reuse for Universal Training-free Acceleration of Diffusion Models
 Junhyuk So, Jungwon Lee, Eunhyeok Park*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.03517) [Code]()
 
 #### Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond
 Silvio Galesso*, Philipp Schröppel*, Hssan Driss, Thomas Brox
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.15739) [Code]()
 
 #### MONTAGE: Monitoring Training for Attribution of Generative Diffusion Models
 Jonathan Brokman*, Omer Hofman, Roman Vainshtein, Amit Giloni, Toshiya Shimizu, Inderjeet Singh, Oren Rachmil, Alon Zolfi, Asaf Shabtai, Yuki Unno, Hisashi Kojima
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09513.pdf) [Code]()
 
 #### Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation
 Mathias Öttl*, Frauke Wilm, Jana Steenpass, Jingna Qiu, Matthias Rübner, Prof Arndt Hartmann, Matthias W. Beckmann, Peter Fasching, Andreas K Maier, Ramona Erber, Bernhard Kainz, Katharina Breininger
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.14429) [Code]()
 
 #### Deep Diffusion Image Prior for Efficient OOD Adaptation in 3D Inverse Problems
 Hyungjin Chung, Jong Chul Ye*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.10641) [Code]()
 
 #### LayerDiff: Exploring Text-guided Multi-layered Composable Image Synthesis via Layer-Collaborative Diffusion Model
 Runhui Huang, Kaixin Cai, Jianhua Han, Xiaodan Liang*, Renjing Pei, Guansong Lu, Songcen Xu, Wei Zhang, Hang Xu
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.11929) [Code]()
 
 #### UpFusion: Novel View Diffusion from Unposed Sparse View Observations
 Bharath Raj Nagoor Kani*, Hsin-Ying Lee, Sergey Tulyakov, Shubham Tulsiani
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.06661) [Code]()
 
 #### Video Editing via Factorized Diffusion Distillation
 Uriel Singer*, Amit Zohar*, Yuval Kirstain, Shelly Sheynin, Adam Polyak, Devi Parikh, Yaniv Taigman
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.09334) [Code]()
 
 #### CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion
 Wendi Zheng*, Jiayan Teng, Zhuoyi Yang, Weihan Wang, Jidong Chen, Xiaotao Gu, Yuxiao Dong*, Ming Ding*, Jie Tang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.05121) [Code]()
 
 #### SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers
 Nanye Ma*, Mark Goldstein, Michael Albergo, Nicholas M Boffi, Eric Vanden-Eijnden*, Saining Xie*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2401.08740) [Code]()
 
 #### Curved Diffusion: A Generative Model With Optical Geometry Control
 Andrey Voynov*, Amir Hertz, Moab Arar, Shlomi Fruchter, Daniel Cohen-Or
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.17609) [Code]()
 
 #### AnimateMe: 4D Facial Expressions via Diffusion Models
 Dimitrios Gerogiannis*, Foivos Paraperas Papantoniou, Rolandos Alexandros Potamias, Alexandros Lattas, Stylianos Moschoglou, Stylianos Ploumpis, Stefanos Zafeiriou
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.17213) [Code]()
 
 #### Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention
 Jie Ren*, Yaxin Li, Shenglai Zeng, Han Xu, Lingjuan Lyu, Yue Xing, Jiliang Tang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.11052) [Code]()
 
 #### Context Diffusion: In-Context Aware Image Generation
 Ivona Najdenkoska*, Animesh Sinha, Abhimanyu Dubey, Dhruv Mahajan, Vignesh Ramanathan, Filip Radenovic
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.03584) [Code]()
 
 #### Adaptive Compressed Sensing with Diffusion-Based Posterior Sampling
 Noam Elata*, Tomer Michaeli, Michael Elad
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.08256) [Code]()
 
 #### Data Augmentation via Latent Diffusion for Saliency Prediction
 Bahar Aydemir*, Deblina Bhattacharjee, Tong Zhang, Mathieu Salzmann, Sabine Süsstrunk
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2409.07307) [Code]()
 
 #### A Diffusion Model for Simulation Ready Coronary Anatomy with Morpho-skeletal Control
 Karim Kadry*, Shreya Gupta, Jonas Sogbadji, Michiel Schaap, Kersten Petersen, Takuya Mizukami, Carlos Collet, Farhad R. Nezami, Elazer R Edelman
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.15631) [Code]()
 
 #### DrivingDiffusion: Layout-Guided Multi-View Driving Scenarios Video Generation with Latent Diffusion Model
 Li Xiaofan*, Zhang Yifu*, Ye Xiaoqing*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2310.07771) [Code]()
 
 #### GSD: View-Guided Gaussian Splatting Diffusion for 3D Reconstruction
 Yuxuan Mu*, Xinxin Zuo, Chuan Guo, Yilin Wang, Juwei Lu, Xiaofei Wu, Songcen Xu, Peng Dai, Youliang Yan, Li Cheng
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.04237) [Code]()
 
 #### AdaDiff: Accelerating Diffusion Models through Step-Wise Adaptive Computation
 Shengkun Tang*, Yaqing Wang, Caiwen Ding, Yi Liang, Yao Li, Dongkuan Xu
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2309.17074) [Code]()
 
 #### Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas
 Fabio Quattrini*, Vittorio Pippi, Silvia Cascianelli*, Rita Cucchiara
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2408.15660) [Code]()
 
 #### Photorealistic Video Generation with Diffusion Models
 Agrim Gupta*, Lijun Yu, Kihyuk Sohn, Xiuye Gu, Meera Hahn, Li Fei-Fei, Irfan Essa, Lu Jiang, Jose Lezama
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.06662) [Code]()
 
 #### WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation
 Jiachen Lu, Ze Huang, Zeyu Yang, Zhang Jiahui, Li Zhang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.02934) [Code]()
 
 #### Soft Shadow Diffusion (SSD): Physics-inspired Learning for 3D Computational Periscopy
 Fadlullah A Raji*, John Murray-Bruce*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10427.pdf) [Code]()
 
 #### Tackling Structural Hallucination in Image Translation with Local Diffusion
 Seunghoi Kim*, Chen Jin, Tom Diethe, Matteo Figini, Henry FJ Tregidgo, Asher Mullokandov, Philip A Teare, Daniel Alexander
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.05980) [Code]()
 
 #### Adversarial Robustification via Text-to-Image Diffusion Models
 Daewon Choi, Jongheon Jeong, Huiwon Jang, Jinwoo Shin*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.18658) [Code]()
 
 #### Learning Quantized Adaptive Conditions for Diffusion Models
 Yuchen Liang*, Yuchuan Tian, Lei Yu, Huaao Tang, Jie Hu, Xiangzhong Fang, Hanting Chen*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2409.17487) [Code]()
 
 #### SwiftBrush v2: Make Your One-step Diffusion Model Better Than Its Teacher
 Trung Tuan Dao*, Thuan Hoang Nguyen, Thanh Van Le, Duc H Vu, Khoi Nguyen, Cuong Pham, Anh T Tran*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2408.14176) [Code]()
 
 #### DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose
 Yusuke Yoshiyasu*, Leyuan Sun
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.arxiv.org/abs/2408.14860) [Code]()
 
 #### SlimFlow: Training Smaller One-Step Diffusion Models with Rectified Flow
 Yuanzhi Zhu*, Xingchao Liu, Qiang Liu*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.12718) [Code]()
 
 #### DreamSampler: Unifying Diffusion Sampling and Score Distillation for Image Manipulation
 Jeongsol Kim, Geon Yeong Park, Jong Chul Ye*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.11415) [Code]()
 
 #### PreciseControl: Enhancing Text-To-Image Diffusion Models with Fine-Grained Attribute Control
 Rishubh Parihar*, Sachidanand VS, Sabariswaran Mani, Tejan Karmali, Venkatesh Babu RADHAKRISHNAN
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.arxiv.org/abs/2408.05083) [Code]()
 
 #### Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models
 Xiaoshi Wu, Yiming Hao, Manyuan Zhang*, Keqiang Sun, Zhaoyang Huang, Guanglu Song, Yu Liu, Hongsheng Li*
+<br>
+[arXiv](https://arxiv.org/abs/2405.00760) [Code]()
 
-#### Inf-DiT: Upsampling any-resolution image with memory-efficient diffusion transformer.
+#### Inf-DiT: Upsampling any-resolution image with memory-efficient diffusion transformer
 Zhuoyi Yang*, Heyang Jiang, Wenyi Hong, Jiayan Teng, Wendi Zheng, Yuxiao Dong, Ming Ding, Jie Tang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2405.04312) [Code]()
 
 #### EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions
 Linrui Tian*, Qi Wang*, Bang Zhang*, Liefeng Bo*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2402.17485) [Code]()
 
 #### Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems
 Yasar U Alcalar*, Mehmet Akcakaya
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.11288) [Code]()
 
 #### R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model
 Changhoon Kim*, Kyle Min*, Yezhou Yang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2405.16341) [Code]()
 
 #### Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion
 Yu Cao*, Shaogang Gong
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.07249) [Code]()
 
 #### A high-quality robust diffusion framework for corrupted dataset
 Quan Dao*, Binh Ta, Tung Pham, Anh Tran
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.17101) [Code]()
 
 #### Identity-Consistent Diffusion Network for Grading Knee Osteoarthritis Progression in Radiographic Imaging
 Wenhua Wu, Kun Hu*, Wenxi Yue, Wei Li, Milena Simic, Changyang Li, Wei Xiang, Zhiyong Wang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.21381) [Code]()
 
 #### Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation
 Shentong Mo, Enze Xie*, Yue Wu, Junsong Chen, Matthias Niessner, Zhenguo Li
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.07231) [Code]()
 
 #### Pix2Gif: Motion-Guided Diffusion for GIF Generation
 Hitesh Kandala*, Jianfeng Gao, Jianwei Yang
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.04634) [Code]()
 
 #### T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models
 Zhongqi Wang, Jie Zhang*, Shiguang Shan, Xilin Chen
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.04215) [Code]()
 
 #### DiffusionPen: Towards Controlling the Style of Handwritten Text Generation
 Konstantina Nikolaidou*, George Retsinas, Giorgos Sfikas, Marcus Liwicki
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2409.06065) [Code]()
 
 #### Learning Pseudo 3D Guidance for View-consistent Texturing with 2D Diffusion
 Kehan Li, Yanbo Fan*, Yang Wu, Zhongqian Sun, Wei Yang, Xiangyang Ji, Li Yuan, Jie Chen*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/11528.pdf) [Code]()
 
 #### Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models
 Yang Zhang*, Tze Tzun Teoh, Wei Hern Lim, Kenji Kawaguchi
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.06381) [Code]()
 
 #### Adversarial Diffusion Distillation
 Axel Sauer*, Dominik Lorenz, Andreas Blattmann, Robin Rombach
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.17042) [Code]()
 
 #### Improving Diffusion Models for Authentic Virtual Try-on in the Wild
 Yisol Choi*, Sangkyung Kwak, Kyungmin Lee, Hyungwon Choi, Jinwoo Shin*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.05139) [Code]()
 
 #### Fast Diffusion-Based Counterfactuals for Shortcut Removal and Generation
 Nina Weng*, Paraskevas Pegios, Eike Petersen, Aasa Feragen, Siavash Arjomand Bigdeli
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.14223) [Code]()
 
 #### Iterative Ensemble Training with Anti-Gradient Control for Mitigating Memorization in Diffusion Models
 Xiao Liu, Xiaoliu Guan, Yu Wu*, Jiaxu Miao*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.15328) [Code]()
 
 #### DiffClass: Diffusion-Based Class Incremental Learning
 Zichong Meng, Jie Zhang, Changdi Yang, Zheng Zhan, Pu Zhao*, Yanzhi Wang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.05016) [Code]()
 
 #### Instant 3D Human Avatar Generation using Image Diffusion Models
 Nikos Kolotouros*, Thiemo Alldieck, Enric Corona, Eduard Gabriel Bazavan, Cristian Sminchisescu
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2406.07516) [Code]()
 
 #### Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models
 Vitali Petsiuk*, Kate Saenko
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2404.13706) [Code]()
 
 #### ControlNet-XS: Rethinking the Control of Text-to-Image Diffusion Models as Feedback-Control Systems
 Denis Zavadski*, Johann-Friedrich Feiden, Carsten Rother
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2312.06573) [Code]()
 
 #### Hierarchical Conditioning of Diffusion Models Using Tree-of-Life for Studying Species Evolution
 Mridul Khurana*, Arka Daw, M. Maruf, Josef C. Uyeda, Wasila Dahdul, Caleb Charpentier, Yasin Bakış, Henry L. Bart Jr., Paula M. Mabee, Hilmar Lapp, James P. Balhoff, Wei-Lun Chao, Charles Stewart, Tanya Berger-Wolf, Anuj Karpatne*
-<br>[arXiv]() [Code]()
+<br>[arXiv](https://arxiv.org/abs/2408.00160) [Code]()
