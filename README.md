@@ -712,67 +712,67 @@ Alakh Desai*, Nuno Vasconcelos
 #### SignGen: End-to-End Sign Language Video Generation with Latent Diffusion
 Fan Qi*, Yu Duan, Changsheng Xu, Huaiwen Zhang*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06988.pdf) [Code]()
 
 #### Diffusion Prior-Based Amortized Variational Inference for Noisy Inverse Problems
 Sojin Lee, Dogyun Park, Inho Kong, Hyunwoo J. Kim*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.16125) [Code]()
 
 #### TetraDiffusion: Tetrahedral Diffusion Models for 3D Shape Generation
 Nikolai Kalischek*, Torben Peters, Jan Dirk Wegner, Konrad Schindler
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2211.13220) [Code]()
 
 #### Switch Diffusion Transformer: Synergizing Denoising Tasks with Sparse Mixture-of-Experts
 Byeongjun Park, Hyojun Go, Jin-Young Kim, Sangmin Woo, Seokil Ham, Changick Kim*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.09176) [Code]()
 
 #### DiffFAS: Face Anti-Spoofing via Generative Diffusion Models
 Xinxu Ge, Xin Liu*, Zitong Yu*, Jingang Shi, Chun Qi, Jie Li, Heikki Kälviäinen
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2409.08572) [Code]()
 
 #### BK-SDM: A Lightweight, Fast, and Cheap Version of Stable Diffusion
 Bo-Kyeong Kim*, Hyoung-Kyu Song, Thibault Castells, Shinkook Choi
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2305.15798) [Code]()
 
 #### CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection
 Wuyang Li, Xinyu Liu, Jiayi Ma, Yixuan Yuan*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07221.pdf) [Code]()
 
 #### Gated Temporal Diffusion for Stochastic Long-term Dense Anticipation
 Olga Zatsarynna*, Emad Bahrami*, Yazan Abu Farha, Gianpiero Francesca, Jürgen Gall*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2407.11954) [Code]()
 
 #### MotionDirector: Motion Customization of Text-to-Video Diffusion Models
 Rui Zhao, Yuchao Gu, Jay Zhangjie Wu, David Junhao Zhang, Jia-Wei Liu, weijia wu, Jussi Keppo, Mike Zheng Shou*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2310.08465) [Code]()
 
 #### Post-training Quantization with Progressive Calibration and Activation Relaxing for Text-to-Image Diffusion Models
 Siao Tang, Xin Wang*, Hong Chen, Chaoyu Guan, Zewen Wu, Yansong Tang, Wenwu Zhu*
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2311.06322) [Code]()
 
 #### Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors
 Ruicheng Wang*, Jianfeng Xiang, Jiaolong Yang, Xin Tong
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2403.11503) [Code]()
 
 #### Exact Diffusion Inversion via Bidirectional Integration Approximation
 Guoqiang Zhang*, j.p. lewis, W. Bastiaan Kleijn
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2307.10829) [Code]()
 
 #### Object-Centric Diffusion for Efficient Video Editing
 Kumara Kahatapitiya*, Adil Karjauv, Davide Abati*, Fatih Porikli, Yuki M Asano, Amirhossein Habibian
 <br>
-[arXiv]() [Code]()
+[arXiv](https://arxiv.org/abs/2401.05735) [Code]()
 
 #### Diffusion for Natural Image Matting
 Yihan Hu*, Yiheng Lin, Wei Wang, Yao Zhao, Yunchao Wei*, Humphrey Shi
