@@ -8,7 +8,7 @@ Lei Zhong, Yiming Xie, Varun Jampani, Deqing Sun, Huaizu Jiang*
 
 #### SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
 Vikram Voleti*, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitrii Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani*
-<br> (<span style="color:red">Oral !</span>) [[arXiv](https://arxiv.org/abs/2403.12008)] [[Project](https://sv3d.github.io/)] [[Model](https://huggingface.co/stabilityai/sv3d)]
+<br> **(Oral !)** [[arXiv](https://arxiv.org/abs/2403.12008)] [[Project](https://sv3d.github.io/)] [[Model](https://huggingface.co/stabilityai/sv3d)]
 
 #### EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation
 Wenyang Zhou, Zhiyang Dou*, Zeyu Cao, Zhouyingcheng Liao, Jingbo Wang, Wenjia Wang, Yuan Liu, Taku Komura, Wenping Wang, Lingjie Liu
