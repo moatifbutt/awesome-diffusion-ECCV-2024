@@ -12,7 +12,7 @@ Vikram Voleti*, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitrii Toc
 
 #### EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation
 Wenyang Zhou, Zhiyang Dou*, Zeyu Cao, Zhouyingcheng Liao, Jingbo Wang, Wenjia Wang, Yuan Liu, Taku Komura, Wenping Wang, Lingjie Liu
-<br>[arXiv](https://arxiv.org/abs/2312.02256) [Code]()
+<br> [Oral Badge] [arXiv](https://arxiv.org/abs/2312.02256) [Code]()
 
 #### Diffusion Bridges for 3D Point Cloud Denoising
 Mathias Vogel Hüni, Keisuke Tateno, Marc Pollefeys, Federico Tombari, Marie-Julie Rakotosaona, Francis Engelmann*
