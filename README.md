@@ -16,7 +16,7 @@ Wenyang Zhou, Zhiyang Dou*, Zeyu Cao, Zhouyingcheng Liao, Jingbo Wang, Wenjia Wa
 
 #### Diffusion Bridges for 3D Point Cloud Denoising
 Mathias Vogel Hüni, Keisuke Tateno, Marc Pollefeys, Federico Tombari, Marie-Julie Rakotosaona, Francis Engelmann*
-<br>[arXiv](https://arxiv.org/abs/2408.16325) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.16325) [[Project](https://p2p-bridge.github.io/)] [[Code](https://github.com/matvogel/P2P-Bridge)] [[Poster](https://p2p-bridge.github.io/static/images/poster.png)]
 
 #### VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models
 Junlin Han*, Filippos Kokkinos, Philip Torr
