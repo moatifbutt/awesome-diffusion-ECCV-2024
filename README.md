@@ -108,271 +108,271 @@ Zizheng Yan*, Jiapeng Zhou, Fanpeng Meng, Yushuang Wu, Lingteng Qiu, Zisheng Ye,
 
 #### Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion
 Xiang Fan*, Anand Bhattad, Ranjay Krishna
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.14617) [[Project](https://videoshop-editing.github.io/)] [[Code](https://github.com/sfanxiang/videoshop)] [[Supplementary](https://videoshop-editing.github.io/static/supplementary/)] [[Video](https://videoshop-editing.github.io/static/supplementary/assets/intro.mp4)]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2403.14617)] [[Project](https://videoshop-editing.github.io/)] [[Code](https://github.com/sfanxiang/videoshop)] [[Supplementary](https://videoshop-editing.github.io/static/supplementary/)] [[Video](https://videoshop-editing.github.io/static/supplementary/assets/intro.mp4)]
 
 #### Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation
 Junsung Lee, Minsoo Kang, Bohyung Han*
-<br>[arXiv](https://arxiv.org/abs/2409.08077) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2409.08077)] [[Code](https://github.com/JS-Lee525/PIC)]
 
 #### RadEdit: stress-testing biomedical vision models via diffusion image editing
 Fernando Pérez-García, Sam Bond-Taylor, Pedro Sanchez, Boris van Breugel, Daniel Coelho de Castro, Harshita Sharma, Valentina Salvatelli, Maria Teodora A Wetscherek, Hannah CM Richardson, Lungren Matthew, Aditya Nori, Javier Alvarez-Valle, Ozan Oktay, Maximilian Ilse*
-<br>[arXiv](https://arxiv.org/abs/2312.12865) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2312.12865)] [[Project](https://huggingface.co/microsoft/radedit)]
 
 #### AdaDiffSR: Adaptive Region-aware Dynamic acceleration Diffusion Model for Real-World Image Super-Resolution
 Yuanting Fan, Chengxu Liu, Nengzhong Yin, Changlong Gao, Xueming Qian*
-<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01944.pdf) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01944.pdf)] [[Video](https://www.youtube.com/watch?v=UcmJI3Cd9UM)]
 
 #### Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation
 Xuelu Feng, Dongdong Chen, Junsong Yuan, Chunming Qiao, Gang Hua, Zixin Zhu*
-<br>[arXiv](https://arxiv.org/abs/2403.12042) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2403.12042)] [[Code](https://github.com/buxiangzhiren/VD-IT)] [[Video](https://youtu.be/da-Fs5-ZyLc)]
 
 #### Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model
 Seonghui Min, Hyun-Jic Oh, Won-Ki Jeong*
-<br>[arXiv](https://arxiv.org/abs/2407.14434) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.14434)
 
 #### MVDD: Multi-View Depth Diffusion Models
 Zhen Wang*, Qiangeng Xu, Feitong Tan, Menglei Chai, Shichen Liu, Rohit Pandey, Sean Fanello, Achuta Kadambi, Yinda Zhang
-<br>[arXiv](https://arxiv.org/abs/2312.04875) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2312.04875) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models
 Eungbean Lee, Somi Jeong, Kwanghoon Sohn*
-<br>[arXiv](https://arxiv.org/abs/2205.07680) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2205.07680) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### DreamDrone: Text-to-Image Diffusion Models are Zero-shot Perpetual View Generators
 Hanyang Kong*, Dongze Lian, Michael Bi Mi, Xinchao Wang*
-<br>[arXiv](https://arxiv.org/html/2312.08746v3) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/html/2312.08746v3) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Harnessing Text-to-Image Diffusion Models for Category-Agnostic Pose Estimation
 Duo Peng, Zhengbo Zhang, Ping Hu, Qiuhong Ke, David Yau, Jun Liu*
-<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02103.pdf) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02103.pdf) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models
 Seunggeun Chi*, Hyung-gun Chi, Hengbo Ma, Nakul Agarwal, Faizan Siddiqui, Karthik Ramani*, Kwonjoon Lee*
-<br>[arXiv](https://arxiv.org/abs/2407.14502) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.14502) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Shapefusion: 3D localized human diffusion models
 Rolandos Alexandros Potamias*, Michael Tarasiou, Stylianos Ploumpis, Stefanos Zafeiriou
-<br>[arXiv](https://arxiv.org/abs/2403.19773) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.19773) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing
 Wonjun Kang, Kevin Galim, Hyung Il Koo*
-<br>[arXiv](https://arxiv.org/abs/2403.09468) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.09468) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization
 Tianchen Zhao*, Xuefei Ning, Tongcheng Fang, Enshu Liu, Guyue Huang, Zinan Lin, Shengen Yan, Guohao Dai, Yu Wang
-<br>[arXiv](https://arxiv.org/abs/2405.17873) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2405.17873) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models
 Bowen Zhang, Yiji Cheng, Chunyu Wang*, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo
-<br>[arXiv](https://www.arxiv.org/abs/2407.06938) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.arxiv.org/abs/2407.06938) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting
 Wouter Van Gansbeke*, Bert De Brabandere
-<br>[arXiv](https://arxiv.org/abs/2401.10227) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2401.10227) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Lego: Learning to Disentangle and Invert Personalized Concepts Beyond Object Appearance in Text-to-Image Diffusion Models
 Saman Motamed*, Danda Pani Paudel, Luc Van Gool
-<br>[arXiv](https://arxiv.org/abs/2311.13833) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2311.13833) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation
 Yuanhao Zhai*, Kevin Lin, Linjie Li, Chung-Ching Lin, Jianfeng Wang, Zhengyuan Yang, David Doermann, Junsong Yuan, Zicheng Liu, Lijuan Wang
-<br>[arXiv](https://arxiv.org/abs/2407.10937) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.10937) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution
 Shrey Singh*, Prateek Keserwani, Masakazu Iwamura*, Partha Pratim Roy
-<br>[arXiv](DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion
 Liao Shen, Tianqi Liu, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhiguo Cao*
-<br>[arXiv](https://www.arxiv.org/abs/2409.09605) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.arxiv.org/abs/2409.09605) [Code]()
 
 #### Efficient Diffusion Transformer with Step-wise Dynamic Attention Mediators
 Yifan Pu*, Zhuofan Xia, Jiayi Guo, Dongchen Han, Qixiu Li, Duo Li, Yuhui Yuan, Ji Li, Yizeng Han, Shiji Song, Gao Huang*, Xiu Li*
-<br>[arXiv](https://arxiv.org/abs/2408.05710) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.05710) [Code]()
 
 #### Diffusion Model is a Good Pose Estimator from 3D RF-Vision
 Junqiao Fan, Jianfei Yang*, Yuecong Xu, Lihua Xie
-<br>[arXiv](https://arxiv.org/abs/2403.16198) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.16198) [Code]()
 
 #### MVDiffHD: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction
 Shitao Tang*, Jiacheng Chen, Dilin Wang, Chengzhou Tang, Fuyang Zhang, Yuchen Fan, Vikas Chandra, Yasutaka Furukawa, Rakesh Ranjan
-<br>[arXiv](https://arxiv.org/abs/2402.12712) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2402.12712) [Code]()
 
 #### Diffusion-Generated Pseudo-Observations for High-Quality Sparse-View Reconstruction
 Xinhang Liu*, Jiaben Chen, Shiu-Hong Kao, Yu-Wing Tai, Chi-Keung Tang
-<br>[arXiv](https://arxiv.org/abs/2305.15171) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2305.15171) [Code]()
 
 #### Memory-Efficient Fine-Tuning for Quantized Diffusion Model
 Hyogon Ryu, Seohyun Lim, Hyunjung Shim*
-<br>[arXiv](https://arxiv.org/abs/2401.04339) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2401.04339) [Code]()
 
 #### COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimation
 Jiefeng Li*, Ye Yuan, Davis Rempe, Haotian Zhang, Pavlo Molchanov, Cewu Lu, Jan Kautz, Umar Iqbal*
-<br>[arXiv](https://arxiv.org/abs/2408.16426) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.16426) [Code]()
 
 #### FreeCompose: Generic Zero-Shot Image Composition with Diffusion Prior
 Zhekai Chen, Wen Wang, Zhen Yang, Zeqing Yuan, Hao Chen*, Chunhua Shen*
-<br>[arXiv](https://arxiv.org/abs/2407.04947) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.04947) [Code]()
 
 #### WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models
 Zijian He, Peixin Chen, Guangrun Wang, Guanbin Li*, Philip Torr, Liang Lin
-<br>[arXiv](https://arxiv.org/abs/2407.10625) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.10625) [Code]()
 
 #### RegionDrag: Fast Region-Based Image Editing with Diffusion Models
 Jingyi Lu, Xinghui Li, Kai Han*
-<br>[arXiv](https://arxiv.org/abs/2407.18247) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.18247) [Code]()
 
 #### MagDiff: Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing
 Haoyu Zhao, Tianyi Lu, Jiaxi Gu, Xing Zhang, Qingping Zheng, Zuxuan Wu*, Hang Xu, Yu-Gang Jiang
-<br>[arXiv](https://arxiv.org/abs/2311.17338) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2311.17338) [Code]()
 
 #### Mutual Learning for Acoustic Matching and Dereverberation via Visual Scene-driven Diffusion
 Jian Ma, Wenguan Wang*, Yi Yang, Feng Zheng
-<br>[arXiv](https://www.arxiv.org/abs/2407.10373) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.arxiv.org/abs/2407.10373) [Code]()
 
 #### SEDiff: Structure Extraction for Domain Adaptive Depth Estimation via Denoising Diffusion Models
 Dongseok Shim*, Hyoun Jin Kim*
-<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02829.pdf) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02829.pdf) [Code]()
 
 #### MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model
 Muyao Niu, Xiaodong Cun*, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng*
-<br>[arXiv](https://arxiv.org/abs/2405.20222) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2405.20222) [Code]()
 
 #### RoofDiffusion: Constructing Roofs from Severely Corrupted Point Data via Diffusion
 Kyle Shih-Huang Lo*, Jorg Peters, Eric Spellman
-<br>[arXiv](https://arxiv.org/abs/2404.09290) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2404.09290) [Code]()
 
 #### L-DiffER: Single Image Reflection Removal with Language-based Diffusion Model
 Yuchen Hong*, Haofeng Zhong*, Shuchen Weng, Jinxiu S Liang, Boxin Shi
-<br>[arXiv](https://assets.ctfassets.net/yreyglvi5sud/4uhN2PF7UyMGgiWQgCMSgi/41f4f9f46fbfa370b3ccd8fbcadbc2b3/2024______Hong_ECCV.pdf) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://assets.ctfassets.net/yreyglvi5sud/4uhN2PF7UyMGgiWQgCMSgi/41f4f9f46fbfa370b3ccd8fbcadbc2b3/2024______Hong_ECCV.pdf) [Code]()
 
 #### BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion
 Xuan Ju*, Xian Liu, Xintao Wang*, Yuxuan Bian, Ying Shan, Qiang Xu*
-<br>[arXiv](https://arxiv.org/abs/2403.06976) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.06976) [Code]()
 
 #### Realistic Human Motion Generation with Cross-Diffusion Models
 Zeping Ren, Shaoli Huang*, Xiu Li*
-<br>[arXiv](https://arxiv.org/abs/2312.10993) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2312.10993) [Code]()
 
 #### ZigMa: A DiT-style Zigzag Mamba Diffusion Model
 Vincent Tao Hu*, Stefan A Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes S Fischer, Bjorn Ommer
-<br>[arXiv](https://arxiv.org/abs/2403.13802) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.13802) [Code]()
 
 #### EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion
 Guangyao Zhai*, Evin Pınar Örnek, Dave Zhenyu Chen, Ruotong Liao, Yan Di, Nassir Navab, Federico Tombari, Benjamin Busam
-<br>[arXiv](https://arxiv.org/abs/2405.00915) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2405.00915) [Code]()
 
 #### Safe-Sim: Safety-Critical Closed-Loop Traffic Simulation with Diffusion-Controllable Adversaries
 Wei-Jer Chang*, Francesco Pittaluga, Masayoshi Tomizuka, Wei Zhan, Manmohan Chandraker
-<br>[arXiv](https://arxiv.org/abs/2401.00391) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2401.00391) [Code]()
 
 #### Implicit Concept Removal of Diffusion Models
 Zhili Liu*, Kai Chen, Yifan Zhang, Jianhua Han, Lanqing Hong, Hang Xu, Zhenguo Li, Dit-Yan Yeung, James Kwok
-<br>[arXiv](https://arxiv.org/abs/2310.05873) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2310.05873) [Code]()
 
 #### GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image
 Xiao Fu*, Wei Yin, Mu Hu, Kaixuan Wang, Yuexin Ma, Ping Tan, Shaojie Shen, Dahua Lin, Xiaoxiao Long
-<br>[arXiv](https://arxiv.org/abs/2403.12013) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.12013) [Code]()
 
 #### Diffusion Models for Monocular Depth Estimation: Overcoming Challenging Conditions
 Fabio Tosi, Pierluigi Zama Ramirez, Matteo Poggi*
-<br>[arXiv](https://arxiv.org/abs/2407.16698) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.16698) [Code]()
 
 #### Lazy Diffusion Transformer for Interactive Image Editing
 Yotam Nitzan*, Zongze Wu, Richard Zhang, Eli Shechtman, Danny Cohen-Or, Taesung Park, Michaël Gharbi
-<br>[arXiv](https://arxiv.org/abs/2404.12382) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2404.12382) [Code]()
 
 #### ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance
 Yongwei Chen, Tengfei Wang, Tong Wu, Xingang Pan, Kui Jia*, Ziwei Liu
-<br>[arXiv](https://arxiv.org/abs/2403.12409) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.12409) [Code]()
 
 #### 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation
 Feng Cheng*, Mi Luo*, Huiyu Wang, Alex Dimakis, Lorenzo Torresani, Gedas Bertasius, Kristen Grauman
-<br>[arXiv](https://eccv.ecva.net/virtual/2024/poster/1665) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://eccv.ecva.net/virtual/2024/poster/1665) [Code]()
 
 #### Enhancing Diffusion Models with Text-Encoder Reinforcement Learning
 Chaofeng Chen*, Annan Wang, Haoning Wu, Liang Liao, Wenxiu Sun, Qiong Yan, Weisi Lin*
-<br>[arXiv](https://arxiv.org/abs/2311.15657) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2311.15657) [Code]()
 
 #### Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation
 Peng Jin*, Hao Li, Zesen Cheng, Kehan Li, Runyi Yu, Chang Liu*, Xiangyang Ji, Li Yuan*, Jie Chen
-<br>[arXiv](https://arxiv.org/abs/2407.10528) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.10528) [Code]()
 
 #### MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion
 Lehong Wu*, Lilang Lin, Jiahang Zhang, Yiyang Ma, Jiaying Liu*
-<br>[arXiv](https://www.arxiv.org/abs/2409.10473) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.arxiv.org/abs/2409.10473) [Code]()
 
 #### Source Prompt Disentangled Inversion for Boosting Image Editability with Diffusion Models
 Ruibin Li*, Ruihuang Li, Song Guo, Lei Zhang
-<br>[arXiv](https://arxiv.org/abs/2403.11105) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.11105) [Code]()
 
 #### StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models
 Wen Li*, Muyuan Fang, Cheng Zou, Biao Gong, Ruobing Zheng, Meng Wang, Jingdong Chen, Ming Yang
-<br>[arXiv](https://arxiv.org/abs/2409.02543) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2409.02543) [Code]()
 
 #### NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model
 Zhongqun Zhang*, Hengfei Wang, Ziwei Yu, Yihua Cheng*, Angela Yao, Hyung Jin Chang
-<br>[arXiv](https://arxiv.org/abs/2407.12727) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.12727) [Code]()
 
 #### Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers
 Zhengbo Zhang*, Li Xu, Duo Peng, Hossein Rahmani, Jun Liu*
-<br>[arXiv](https://arxiv.org/abs/2407.08394) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.08394) [Code]()
 
 #### Transferable 3D Adversarial Shape Completion using Diffusion Models
 Xuelong Dai*, Bin Xiao
-<br>[arXiv](http://arxiv.org/abs/2407.10077) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](http://arxiv.org/abs/2407.10077) [Code]()
 
 #### Distilling Diffusion Models into Conditional GANs
 MinGuk Kang*, Richard Zhang, Connelly Barnes, Sylvain Paris, Suha Kwak, Jaesik Park, Eli Shechtman, Jun-Yan Zhu, Taesung Park*
-<br>[arXiv](https://arxiv.org/abs/2405.05967) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2405.05967) [Code]()
 
 #### You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation
 Mehdi Noroozi*, Isma Hadji*, Brais Martinez*, Adrian Bulat*, Georgios Tzimiropoulos*
-<br>[arXiv](https://arxiv.org/abs/2401.17258) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2401.17258) [Code]()
 
 #### Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation
 Yixiao Wang*, Chen Tang, Lingfeng Sun, Simone Rossi, Yichen Xie, Chensheng Peng, Thomas Hannagan, Stefano Sabatini, Nicola Poerio, Masayoshi TOMIZUKA, Wei Zhan
-<br>[arXiv](https://arxiv.org/abs/2408.00766) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.00766) [Code]()
 
 #### Open-Vocabulary 3D Semantic Segmentation with Text-to-Image Diffusion Models
 Xiaoyu Zhu*, Hao Zhou, Pengfei Xing, Long Zhao, Hao Xu, Junwei Liang, Alexander G. Hauptmann, Ting Liu, Andrew Gallagher
-<br>[arXiv](https://arxiv.org/abs/2407.13642) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.13642) [Code]()
 
 #### D-SCo: Dual-Stream Conditional Diffusion for Monocular Hand-Held Object Reconstruction
 Bowen Fu*, Gu Wang*, Chenyangguang Zhang, Yan Di, Ziqin Huang, Zhiying Leng, Fabian Manhardt, Xiangyang Ji*, Federico Tombari*
-<br>[arXiv](https://arxiv.org/abs/2311.14189) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2311.14189) [Code]()
 
 #### Probabilistic Weather Forecasting with Deterministic Guidance-based Diffusion Model
 Donggeun Yoon, Minseok Seo, Doyi Kim, Yeji Choi, Donghyeon Cho*
-<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04326.pdf) [Code]()
 
 #### Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning
 Jinglin Liang, Jin Zhong, Hanlin Gu, Zhongqi Lu, Xingxing Tang, Gang Dai, Shuangping Huang*, Lixin Fan, Qiang Yang
-<br>[arXiv](https://arxiv.org/abs/2409.01128) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2409.01128) [Code]()
 
 #### View Selection for 3D Captioning via Diffusion Ranking
 Tiange Luo*, Justin Johnson, Honglak Lee
-<br>[arXiv](https://arxiv.org/abs/2404.07984) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2404.07984) [Code]()
 
 #### OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model
 Runyi Li*, Xuhan Sheng, Weiqi Li, Jian Zhang*
-<br>[arXiv](https://arxiv.org/abs/2404.10312) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2404.10312) [Code]()
 
 #### UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models
 Yiming Zhao*, Zhouhui Lian*
-<br>[arXiv](https://arxiv.org/abs/2312.04884) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2312.04884) [Code]()
 
 #### OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models
 Zhe Kong*, Yong Zhang*, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo*
-<br>[arXiv](https://arxiv.org/abs/2403.10983) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.10983) [Code]()
 
 #### CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation
 Hajin Shim, Changhun Kim, Eunho Yang*
-<br>[arXiv](https://arxiv.org/abs/2407.16193) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.16193) [Code]()
 
 #### DreamDiffusion: High-Quality EEG-to-Image Generation with Temporal Masked Signal Modeling and CLIP Alignment
 Yunpeng Bai*, Xintao Wang, Yan-Pei Cao, Yixiao Ge, Chun Yuan, Ying Shan
-<br>[arXiv](https://arxiv.org/abs/2306.16934) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2306.16934) [Code]()
 
 #### SCP-Diff: Spatial-Categorical Joint Prior for Diffusion Based Semantic Image Synthesis
 Huan-ang Gao, Mingju Gao, Jiaju Li, Wenyi Li, Rong Zhi, Hao Tang, Hao Zhao*
@@ -1316,4 +1316,4 @@ Denis Zavadski*, Johann-Friedrich Feiden, Carsten Rother
 
 #### Hierarchical Conditioning of Diffusion Models Using Tree-of-Life for Studying Species Evolution
 Mridul Khurana*, Arka Daw, M. Maruf, Josef C. Uyeda, Wasila Dahdul, Caleb Charpentier, Yasin Bakış, Henry L. Bart Jr., Paula M. Mabee, Hilmar Lapp, James P. Balhoff, Wei-Lun Chao, Charles Stewart, Tanya Berger-Wolf, Anuj Karpatne*
-<br>[arXiv](https://arxiv.org/abs/2408.00160) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.00160) [Code]()
