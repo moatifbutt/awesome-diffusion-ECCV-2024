@@ -16,11 +16,11 @@ Wenyang Zhou, Zhiyang Dou*, Zeyu Cao, Zhouyingcheng Liao, Jingbo Wang, Wenjia Wa
 
 #### Diffusion Bridges for 3D Point Cloud Denoising
 Mathias Vogel Hüni, Keisuke Tateno, Marc Pollefeys, Federico Tombari, Marie-Julie Rakotosaona, Francis Engelmann*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.16325) [[Project](https://p2p-bridge.github.io/)] [[Code](https://github.com/matvogel/P2P-Bridge)] [[Poster](https://p2p-bridge.github.io/static/images/poster.png)]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2408.16325)] [[Project](https://p2p-bridge.github.io/)] [[Code](https://github.com/matvogel/P2P-Bridge)] [[Poster](https://p2p-bridge.github.io/static/images/poster.png)]
 
 #### VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models
 Junlin Han*, Filippos Kokkinos, Philip Torr
-<br>[arXiv](https://arxiv.org/abs/2403.12034) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.12034) [[Project](https://junlinhan.github.io/projects/vfusion3d.html)] [[Code](https://github.com/facebookresearch/vfusion3d)] [[Poster](https://junlinhan.github.io/projects/resources/paper16/vfusion3d_poster.pdf)] [[Huggingface Demo](https://huggingface.co/spaces/facebook/VFusion3D)]
 
 #### Beta-Tuned Timestep Diffusion Model
 Tianyi Zheng*, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang*, Bo Li*
