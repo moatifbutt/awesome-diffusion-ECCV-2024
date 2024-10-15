@@ -24,67 +24,66 @@ Junlin Han*, Filippos Kokkinos, Philip Torr
 
 #### Beta-Tuned Timestep Diffusion Model
 Tianyi Zheng*, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang*, Bo Li*
-<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf)
 
 #### Taming Latent Diffusion Model for Neural Radiance Field Inpainting
 Chieh Hubert Lin*, Changil Kim, Jia-Bin Huang, Qinbo Li, Chih-Yao Ma, Johannes Kopf, Ming-Hsuan Yang, Hung-Yu Tseng
-<br>[arXiv](https://arxiv.org/abs/2404.09995) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2404.09995) [[Project](https://hubert0527.github.io/MALD-NeRF/)]
 
 #### FreeInit: Bridging Initialization Gap in Video Diffusion Models
 Tianxing Wu*, Chenyang Si, Yuming Jiang, Ziqi Huang, Ziwei Liu
-<br>[arXiv](https://arxiv.org/abs/2312.07537) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2312.07537) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation
 Yushi Lan, Fangzhou Hong, Shuai Yang, Shangchen Zhou, Xuyi Meng, Bo Dai, Xingang Pan, Chen Change Loy*
-<br>[arXiv](https://arxiv.org/abs/2403.12019) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2403.12019) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation
 Zexiang Liu, Yangguang Li, Youtian Lin, Xin Yu, Sida Peng, Yan-Pei Cao, Xiaojuan Qi, Xiaoshui Huang, Ding Liang*, Wanli Ouyang
-<br>[arXiv](https://arxiv.org/abs/2312.08754) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2312.08754) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models
 Wei WU*, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni Chan*
-<br>[arXiv](https://arxiv.org/abs/2404.11895) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2404.11895) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### Synchronous Diffusion for Unsupervised Smooth Non-Rigid 3D Shape Matching
 Dongliang Cao*, Zorah Laehner, Florian Bernard
-<br>[arXiv](https://arxiv.org/abs/2407.08244) [Code]()
-
+<br>[arXiv](https://arxiv.org/abs/2407.08244) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 #### Diffusion Models for Open-Vocabulary Segmentation
 Laurynas Karazija*, Iro Laina, Andrea Vedaldi, Christian Rupprecht
-<br>[arXiv](https://arxiv.org/abs/2306.09316) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2306.09316) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### AccDiffusion: An Accurate Method for Higher-Resolution Image Generation
 Zhihang Lin, Mingbao Lin, Meng Zhao, Rongrong Ji*
-<br>[arXiv](https://arxiv.org/abs/2407.10738) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2407.10738) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation
 Bochao Liu, Pengju Wang, Shiming Ge*
-<br>[arXiv](https://arxiv.org/abs/2408.14738) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2408.14738) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### Prompting Future Driven Diffusion Model for Hand Motion Prediction
 Bowen Tang*, Kaihao Zhang*, Wenhan Luo*, Wei Liu, HONGDONG LI
-<br>[arXiv](https://eccv.ecva.net/virtual/2024/poster/653) [Code]()
+<br>[arXiv](https://eccv.ecva.net/virtual/2024/poster/653) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement
 Muhammad Atif Butt*, Kai Wang, Javier Vazquez-Corral, Joost van de Weijer
-<br>[arXiv](https://arxiv.org/abs/2407.07197) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2407.07197) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### DiffiT: Diffusion Vision Transformers for Image Generation
 Ali Hatamizadeh*, Jiaming Song, Guilin Liu, Jan Kautz, Arash Vahdat
-<br>[arXiv](https://arxiv.org/abs/2312.02139) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2312.02139) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration
 Yulin Ren, Xin Li*, Bingchen Li, Xingrui Wang, Mengxi China Guo, Shijie Zhao, Li Zhang, Zhibo Chen*
-<br>[arXiv](https://arxiv.org/abs/2407.10833) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2407.10833) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection
 Youngmin Oh, Hyung-Il Kim, Seong Tae Kim*, Jung Uk Kim*
-<br>[arXiv](https://arxiv.org/abs/2407.16448) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2407.16448) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
 Tao Yang*, Rongyuan Wu, Peiran Ren, Xuansong Xie, Lei Zhang
-<br>[arXiv](https://arxiv.org/abs/2308.14469) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2308.14469) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution
 Qu Yunpeng*, Kun Yuan, Kai Zhao, Qizhi Xie, Jinhua Hao, Ming Sun, Chao Zhou
