@@ -104,11 +104,11 @@ Claudio Rota*, Marco Buzzelli, Joost van de Weijer
 
 #### DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors
 Zizheng Yan*, Jiapeng Zhou, Fanpeng Meng, Yushuang Wu, Lingteng Qiu, Zisheng Ye, Shuguang Cui, Guanying CHEN, Xiaoguang Han*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.16260) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.16260)] [[Project](https://chester256.github.io/dreamdissector/)] [[Video](https://youtu.be/qHiEoio7SJ0)]
 
 #### Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion
 Xiang Fan*, Anand Bhattad, Ranjay Krishna
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.14617) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.14617) [[Project](https://videoshop-editing.github.io/)] [[Code](https://github.com/sfanxiang/videoshop)] [[Supplementary](https://videoshop-editing.github.io/static/supplementary/)] [[Video](https://videoshop-editing.github.io/static/supplementary/assets/intro.mp4)]
 
 #### Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation
 Junsung Lee, Minsoo Kang, Bohyung Han*
