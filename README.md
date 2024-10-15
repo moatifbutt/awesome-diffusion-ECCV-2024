@@ -128,27 +128,27 @@ Xuelu Feng, Dongdong Chen, Junsong Yuan, Chunming Qiao, Gang Hua, Zixin Zhu*
 
 #### Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model
 Seonghui Min, Hyun-Jic Oh, Won-Ki Jeong*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.14434)
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.14434)]
 
 #### MVDD: Multi-View Depth Diffusion Models
 Zhen Wang*, Qiangeng Xu, Feitong Tan, Menglei Chai, Shichen Liu, Rohit Pandey, Sean Fanello, Achuta Kadambi, Yinda Zhang
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2312.04875) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2312.04875)] [[Project](https://mvdepth.github.io/)]
 
 #### EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models
 Eungbean Lee, Somi Jeong, Kwanghoon Sohn*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2205.07680) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2205.07680)]
 
 #### DreamDrone: Text-to-Image Diffusion Models are Zero-shot Perpetual View Generators
 Hanyang Kong*, Dongze Lian, Michael Bi Mi, Xinchao Wang*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/html/2312.08746v3) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/html/2312.08746v3)] [[Project](https://hyokong.github.io/dreamdrone-page/)] [[Code](https://github.com/HyoKong/DreamDrone)] [[Demo](https://huggingface.co/spaces/imsuperkong/dreamdrone)]
 
 #### Harnessing Text-to-Image Diffusion Models for Category-Agnostic Pose Estimation
 Duo Peng, Zhengbo Zhang, Ping Hu, Qiuhong Ke, David Yau, Jun Liu*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02103.pdf) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Oral Badge](https://img.shields.io/badge/Oral-blue) [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02103.pdf)]
 
 #### M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models
 Seunggeun Chi*, Hyung-gun Chi, Hengbo Ma, Nakul Agarwal, Faizan Siddiqui, Karthik Ramani*, Kwonjoon Lee*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.14502) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.14502)] [[Video](https://www.youtube.com/watch?v=DERy31VEK2g)]
 
 #### Shapefusion: 3D localized human diffusion models
 Rolandos Alexandros Potamias*, Michael Tarasiou, Stylianos Ploumpis, Stefanos Zafeiriou
