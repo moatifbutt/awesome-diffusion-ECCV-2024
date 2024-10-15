@@ -6,9 +6,9 @@ List of papers accepted in ECCV 2024.
 Lei Zhong, Yiming Xie, Varun Jampani, Deqing Sun, Huaizu Jiang*
 <br>[[arXiv](https://arxiv.org/abs/2407.12783)] [[Project](https://neu-vi.github.io/SMooDi/)] [[Code](https://github.com/neu-vi/SMooDi)] 
 
-#### SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
+#### ![Oral Badge](https://img.shields.io/badge/Oral-brightgreen) SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
 Vikram Voleti*, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitrii Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani*
-<br> **(Oral!)**![Oral Badge](https://img.shields.io/badge/Oral-brightgreen) [[arXiv](https://arxiv.org/abs/2403.12008)] [[Project](https://sv3d.github.io/)] [[Model](https://huggingface.co/stabilityai/sv3d)]
+<br> [[arXiv](https://arxiv.org/abs/2403.12008)] [[Project](https://sv3d.github.io/)] [[Model](https://huggingface.co/stabilityai/sv3d)]
 
 #### EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation
 Wenyang Zhou, Zhiyang Dou*, Zeyu Cao, Zhouyingcheng Liao, Jingbo Wang, Wenjia Wang, Yuan Liu, Taku Komura, Wenping Wang, Lingjie Liu
