@@ -80,11 +80,11 @@ Yulin Ren, Xin Li*, Bingchen Li, Xingrui Wang, Mengxi China Guo, Shijie Zhao, Li
 
 #### MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection
 Youngmin Oh, Hyung-Il Kim, Seong Tae Kim*, Jung Uk Kim*
-<br>[arXiv](https://arxiv.org/abs/2407.16448) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.16448)] [[Code](https://github.com/VisualAIKHU/MonoWAD)] [[Data](https://drive.google.com/file/d/1iOpoZ-QbJdU2ytRmd9wPxH0RNjZ6KNdQ/view)]
 
 #### Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
 Tao Yang*, Rongyuan Wu, Peiran Ren, Xuansong Xie, Lei Zhang
-<br>[arXiv](https://arxiv.org/abs/2308.14469) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2308.14469)] [[Code](https://github.com/yangxy/PASD/)] [[Data](https://huggingface.co/datasets/yangtao9009/PASD_dataset)] [[Demo](https://colab.research.google.com/drive/1lZ_-rSGcmreLCiRniVT973x6JLjFiC-b?usp=sharing)]
 
 #### XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution
 Qu Yunpeng*, Kun Yuan, Kai Zhao, Qizhi Xie, Jinhua Hao, Ming Sun, Chao Zhou
