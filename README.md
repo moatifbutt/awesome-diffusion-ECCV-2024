@@ -24,15 +24,15 @@ Junlin Han*, Filippos Kokkinos, Philip Torr
 
 #### Beta-Tuned Timestep Diffusion Model
 Tianyi Zheng*, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang*, Bo Li*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf)
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00328.pdf)]
 
 #### Taming Latent Diffusion Model for Neural Radiance Field Inpainting
 Chieh Hubert Lin*, Changil Kim, Jia-Bin Huang, Qinbo Li, Chih-Yao Ma, Johannes Kopf, Ming-Hsuan Yang, Hung-Yu Tseng
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2404.09995) [[Project](https://hubert0527.github.io/MALD-NeRF/)]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2404.09995)] [[Project](https://hubert0527.github.io/MALD-NeRF/)]
 
 #### FreeInit: Bridging Initialization Gap in Video Diffusion Models
 Tianxing Wu*, Chenyang Si, Yuming Jiang, Ziqi Huang, Ziwei Liu
-<br>[arXiv](https://arxiv.org/abs/2312.07537) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> [[arXiv](https://arxiv.org/abs/2312.07537)] [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
 
 #### LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation
 Yushi Lan, Fangzhou Hong, Shuai Yang, Shangchen Zhou, Xuyi Meng, Bo Dai, Xingang Pan, Chen Change Loy*
