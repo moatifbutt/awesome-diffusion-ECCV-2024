@@ -49,9 +49,10 @@ Wei WU*, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni Chan*
 #### Synchronous Diffusion for Unsupervised Smooth Non-Rigid 3D Shape Matching
 Dongliang Cao*, Zorah Laehner, Florian Bernard
 <br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.08244)]
+
 #### Diffusion Models for Open-Vocabulary Segmentation
 Laurynas Karazija*, Iro Laina, Andrea Vedaldi, Christian Rupprecht
-<br>[arXiv](https://arxiv.org/abs/2306.09316) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br>  ![Oral Badge](https://img.shields.io/badge/Oral-blue) [[arXiv](https://arxiv.org/abs/2306.09316)] [[Project](https://www.robots.ox.ac.uk/~vgg/research/ovdiff/)] [[Video](https://youtu.be/OSDtkp7Ta-8)]
 
 #### AccDiffusion: An Accurate Method for Higher-Resolution Image Generation
 Zhihang Lin, Mingbao Lin, Meng Zhao, Rongrong Ji*
