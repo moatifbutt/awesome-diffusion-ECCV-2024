@@ -4,7 +4,7 @@ List of papers accepted in ECCV 2024.
 
 #### SMooDi: Stylized Motion Diffusion Model
 Lei Zhong, Yiming Xie, Varun Jampani, Deqing Sun, Huaizu Jiang*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-yellow) [[arXiv](https://arxiv.org/abs/2407.12783)] [[Project](https://neu-vi.github.io/SMooDi/)] [[Code](https://github.com/neu-vi/SMooDi)] 
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.12783)] [[Project](https://neu-vi.github.io/SMooDi/)] [[Code](https://github.com/neu-vi/SMooDi)] 
 
 #### SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion
 Vikram Voleti*, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitrii Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani*
