@@ -36,7 +36,7 @@ Tianxing Wu*, Chenyang Si, Yuming Jiang, Ziqi Huang, Ziwei Liu
 
 #### LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation
 Yushi Lan, Fangzhou Hong, Shuai Yang, Shangchen Zhou, Xuyi Meng, Bo Dai, Xingang Pan, Chen Change Loy*
-<br>[arXiv](https://arxiv.org/abs/2403.12019) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2403.12019)] [[Project](https://nirvanalan.github.io/projects/ln3diff/)] [[Code](https://github.com/NIRVANALAN/LN3Diff)] [[Gradio Demo](https://huggingface.co/spaces/yslan/LN3Diff_I23D)]
 
 #### UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation
 Zexiang Liu, Yangguang Li, Youtian Lin, Xin Yu, Sida Peng, Yan-Pei Cao, Xiaojuan Qi, Xiaoshui Huang, Ding Liang*, Wanli Ouyang
