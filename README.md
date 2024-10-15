@@ -72,11 +72,11 @@ Muhammad Atif Butt*, Kai Wang, Javier Vazquez-Corral, Joost van de Weijer
 
 #### DiffiT: Diffusion Vision Transformers for Image Generation
 Ali Hatamizadeh*, Jiaming Song, Guilin Liu, Jan Kautz, Arash Vahdat
-<br>[arXiv](https://arxiv.org/abs/2312.02139) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2312.02139)] [[Code](https://github.com/NVlabs/DiffiT)]
 
 #### MoE-DiffIR: Task-customized Diffusion Priors for Universal Compressed Image Restoration
 Yulin Ren, Xin Li*, Bingchen Li, Xingrui Wang, Mengxi China Guo, Shijie Zhao, Li Zhang, Zhibo Chen*
-<br>[arXiv](https://arxiv.org/abs/2407.10833) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.10833)] [[Project](https://renyulin-f.github.io/MoE-DiffIR.github.io/)] [[Code](https://github.com/renyulin-f/MoE-DiffIR)] [[Data](https://drive.google.com/drive/folders/1Kn8SjJWpHITHlg5kuL1Ur7Ml-WNJJ064)]
 
 #### MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection
 Youngmin Oh, Hyung-Il Kim, Seong Tae Kim*, Jung Uk Kim*
