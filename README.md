@@ -44,11 +44,11 @@ Zexiang Liu, Yangguang Li, Youtian Lin, Xin Yu, Sida Peng, Yan-Pei Cao, Xiaojuan
 
 #### FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models
 Wei WU*, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni Chan*
-<br>[arXiv](https://arxiv.org/abs/2404.11895) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2404.11895)] [[Code](https://github.com/Thermal-Dynamics/FreeDiff)]
 
 #### Synchronous Diffusion for Unsupervised Smooth Non-Rigid 3D Shape Matching
 Dongliang Cao*, Zorah Laehner, Florian Bernard
-<br>[arXiv](https://arxiv.org/abs/2407.08244) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.08244)]
 #### Diffusion Models for Open-Vocabulary Segmentation
 Laurynas Karazija*, Iro Laina, Andrea Vedaldi, Christian Rupprecht
 <br>[arXiv](https://arxiv.org/abs/2306.09316) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
