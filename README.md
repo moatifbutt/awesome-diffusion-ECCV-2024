@@ -40,7 +40,7 @@ Yushi Lan, Fangzhou Hong, Shuai Yang, Shangchen Zhou, Xuyi Meng, Bo Dai, Xingang
 
 #### UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation
 Zexiang Liu, Yangguang Li, Youtian Lin, Xin Yu, Sida Peng, Yan-Pei Cao, Xiaojuan Qi, Xiaoshui Huang, Ding Liang*, Wanli Ouyang
-<br>[arXiv](https://arxiv.org/abs/2312.08754) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2312.08754)] [[Project](https://yg256li.github.io/UniDream/)] [[Code](https://github.com/YG256Li/UniDream)]
 
 #### FreeDiff: Progressive Frequency Truncation for Image Editing with Diffusion Models
 Wei WU*, Qingnan Fan, Shuai Qin, Hong Gu, Ruoyu Zhao, Antoni Chan*
