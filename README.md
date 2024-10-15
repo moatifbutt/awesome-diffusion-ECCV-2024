@@ -20,7 +20,7 @@ Mathias Vogel Hüni, Keisuke Tateno, Marc Pollefeys, Federico Tombari, Marie-Jul
 
 #### VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models
 Junlin Han*, Filippos Kokkinos, Philip Torr
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.12034) [[Project](https://junlinhan.github.io/projects/vfusion3d.html)] [[Code](https://github.com/facebookresearch/vfusion3d)] [[Poster](https://junlinhan.github.io/projects/resources/paper16/vfusion3d_poster.pdf)] [[Huggingface Demo](https://huggingface.co/spaces/facebook/VFusion3D)]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2403.12034)] [[Project](https://junlinhan.github.io/projects/vfusion3d.html)] [[Code](https://github.com/facebookresearch/vfusion3d)] [[Poster](https://junlinhan.github.io/projects/resources/paper16/vfusion3d_poster.pdf)] [[Huggingface Demo](https://huggingface.co/spaces/facebook/VFusion3D)]
 
 #### Beta-Tuned Timestep Diffusion Model
 Tianyi Zheng*, Peng-Tao Jiang, Ben Wan, Hao Zhang, Jinwei Chen, Jia Wang*, Bo Li*
@@ -32,7 +32,7 @@ Chieh Hubert Lin*, Changil Kim, Jia-Bin Huang, Qinbo Li, Chih-Yao Ma, Johannes K
 
 #### FreeInit: Bridging Initialization Gap in Video Diffusion Models
 Tianxing Wu*, Chenyang Si, Yuming Jiang, Ziqi Huang, Ziwei Liu
-<br> [[arXiv](https://arxiv.org/abs/2312.07537)] [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2312.07537)] [[Project](https://tianxingwu.github.io/pages/FreeInit/)] [[Code](https://github.com/TianxingWu/FreeInit)] [[Huggingface Demo](https://huggingface.co/spaces/TianxingWu/FreeInit)] [[Video](https://youtu.be/lS5IYbAqriI)]
 
 #### LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation
 Yushi Lan, Fangzhou Hong, Shuai Yang, Shangchen Zhou, Xuyi Meng, Bo Dai, Xingang Pan, Chen Change Loy*
