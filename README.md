@@ -88,99 +88,99 @@ Tao Yang*, Rongyuan Wu, Peiran Ren, Xuansong Xie, Lei Zhang
 
 #### XPSR: Cross-modal Priors for Diffusion-based Image Super-Resolution
 Qu Yunpeng*, Kun Yuan, Kai Zhao, Qizhi Xie, Jinhua Hao, Ming Sun, Chao Zhou
-<br>[arXiv](https://arxiv.org/abs/2403.05049) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2403.05049)] [[Code](https://github.com/qyp2000/XPSR)]
 
 #### DiffusionDepth: Diffusion Denoising Approach for Monocular Depth Estimation
 Yiqun Duan*, Xianda Guo*, Zheng Zhu
-<br>[arXiv](https://arxiv.org/abs/2303.05021) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2303.05021)] [[Code](https://github.com/duanyiqun/DiffusionDepth)]
 
 #### DC-Solver: Improving Predictor-Corrector Diffusion Sampler via Dynamic Compensation
 Wenliang Zhao, Haolin Wang, Jie Zhou, Jiwen Lu*
-<br>[arXiv](https://arxiv.org/abs/2409.03755) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2409.03755)] [[Code](https://github.com/wl-zhao/DC-Solver)]
 
 #### Enhancing Perceptual Quality in Video Super-Resolution through Temporally-Consistent Detail Synthesis using Diffusion Models
 Claudio Rota*, Marco Buzzelli, Joost van de Weijer
-<br>[arXiv](https://arxiv.org/abs/2311.15908) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2311.15908)] [[Code](https://github.com/claudiom4sir/StableVSR)]
 
 #### DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors
 Zizheng Yan*, Jiapeng Zhou, Fanpeng Meng, Yushuang Wu, Lingteng Qiu, Zisheng Ye, Shuguang Cui, Guanying CHEN, Xiaoguang Han*
-<br>[arXiv](https://arxiv.org/abs/2407.16260) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.16260) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion
 Xiang Fan*, Anand Bhattad, Ranjay Krishna
-<br>[arXiv](https://arxiv.org/abs/2403.14617) [Code]()
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.14617) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Diffusion-Based Image-to-Image Translation by Noise Correction via Prompt Interpolation
 Junsung Lee, Minsoo Kang, Bohyung Han*
-<br>[arXiv](https://arxiv.org/abs/2409.08077) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2409.08077) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### RadEdit: stress-testing biomedical vision models via diffusion image editing
 Fernando Pérez-García, Sam Bond-Taylor, Pedro Sanchez, Boris van Breugel, Daniel Coelho de Castro, Harshita Sharma, Valentina Salvatelli, Maria Teodora A Wetscherek, Hannah CM Richardson, Lungren Matthew, Aditya Nori, Javier Alvarez-Valle, Ozan Oktay, Maximilian Ilse*
-<br>[arXiv](https://arxiv.org/abs/2312.12865) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2312.12865) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### AdaDiffSR: Adaptive Region-aware Dynamic acceleration Diffusion Model for Real-World Image Super-Resolution
 Yuanting Fan, Chengxu Liu, Nengzhong Yin, Changlong Gao, Xueming Qian*
-<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01944.pdf) [Code]()
+<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01944.pdf) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Exploring Pre-trained Text-to-Video Diffusion Models for Referring Video Object Segmentation
 Xuelu Feng, Dongdong Chen, Junsong Yuan, Chunming Qiao, Gang Hua, Zixin Zhu*
-<br>[arXiv](https://arxiv.org/abs/2403.12042) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2403.12042) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Co-synthesis of Histopathology Nuclei Image-Label Pairs using a Context-Conditioned Joint Diffusion Model
 Seonghui Min, Hyun-Jic Oh, Won-Ki Jeong*
-<br>[arXiv](https://arxiv.org/abs/2407.14434) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2407.14434) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### MVDD: Multi-View Depth Diffusion Models
 Zhen Wang*, Qiangeng Xu, Feitong Tan, Menglei Chai, Shichen Liu, Rohit Pandey, Sean Fanello, Achuta Kadambi, Yinda Zhang
-<br>[arXiv](https://arxiv.org/abs/2312.04875) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2312.04875) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### EBDM: Exemplar-guided Image Translation with Brownian-bridge Diffusion Models
 Eungbean Lee, Somi Jeong, Kwanghoon Sohn*
-<br>[arXiv](https://arxiv.org/abs/2205.07680) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2205.07680) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### DreamDrone: Text-to-Image Diffusion Models are Zero-shot Perpetual View Generators
 Hanyang Kong*, Dongze Lian, Michael Bi Mi, Xinchao Wang*
-<br>[arXiv](https://arxiv.org/html/2312.08746v3) [Code]()
+<br>[arXiv](https://arxiv.org/html/2312.08746v3) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Harnessing Text-to-Image Diffusion Models for Category-Agnostic Pose Estimation
 Duo Peng, Zhengbo Zhang, Ping Hu, Qiuhong Ke, David Yau, Jun Liu*
-<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02103.pdf) [Code]()
+<br>[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02103.pdf) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### M2D2M: Multi-Motion Generation from Text with Discrete Diffusion Models
 Seunggeun Chi*, Hyung-gun Chi, Hengbo Ma, Nakul Agarwal, Faizan Siddiqui, Karthik Ramani*, Kwonjoon Lee*
-<br>[arXiv](https://arxiv.org/abs/2407.14502) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2407.14502) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Shapefusion: 3D localized human diffusion models
 Rolandos Alexandros Potamias*, Michael Tarasiou, Stylianos Ploumpis, Stefanos Zafeiriou
-<br>[arXiv](https://arxiv.org/abs/2403.19773) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2403.19773) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing
 Wonjun Kang, Kevin Galim, Hyung Il Koo*
-<br>[arXiv](https://arxiv.org/abs/2403.09468) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2403.09468) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization
 Tianchen Zhao*, Xuefei Ning, Tongcheng Fang, Enshu Liu, Guyue Huang, Zinan Lin, Shengen Yan, Guohao Dai, Yu Wang
-<br>[arXiv](https://arxiv.org/abs/2405.17873) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2405.17873) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models
 Bowen Zhang, Yiji Cheng, Chunyu Wang*, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo
-<br>[arXiv](https://www.arxiv.org/abs/2407.06938) [Code]()
+<br>[arXiv](https://www.arxiv.org/abs/2407.06938) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting
 Wouter Van Gansbeke*, Bert De Brabandere
-<br>[arXiv](https://arxiv.org/abs/2401.10227) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2401.10227) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### Lego: Learning to Disentangle and Invert Personalized Concepts Beyond Object Appearance in Text-to-Image Diffusion Models
 Saman Motamed*, Danda Pani Paudel, Luc Van Gool
-<br>[arXiv](https://arxiv.org/abs/2311.13833) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2311.13833) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### IDOL: Unified Dual-Modal Latent Diffusion for Human-Centric Joint Video-Depth Generation
 Yuanhao Zhai*, Kevin Lin, Linjie Li, Chung-Ching Lin, Jianfeng Wang, Zhengyuan Yang, David Doermann, Junsong Yuan, Zicheng Liu, Lijuan Wang
-<br>[arXiv](https://arxiv.org/abs/2407.10937) [Code]()
+<br>[arXiv](https://arxiv.org/abs/2407.10937) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution
 Shrey Singh*, Prateek Keserwani, Masakazu Iwamura*, Partha Pratim Roy
-<br>[arXiv](DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution) [Code]()
+<br>[arXiv](DCDM: Diffusion-Conditioned-Diffusion Model for Scene Text Image Super-Resolution) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
 
 #### DreamMover: Leveraging the Prior of Diffusion Models for Image Interpolation with Large Motion
 Liao Shen, Tianqi Liu, Huiqiang Sun, Xinyi Ye, Baopu Li, Jianming Zhang, Zhiguo Cao*
