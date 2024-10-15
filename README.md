@@ -56,19 +56,19 @@ Laurynas Karazija*, Iro Laina, Andrea Vedaldi, Christian Rupprecht
 
 #### AccDiffusion: An Accurate Method for Higher-Resolution Image Generation
 Zhihang Lin, Mingbao Lin, Meng Zhao, Rongrong Ji*
-<br>[arXiv](https://arxiv.org/abs/2407.10738) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.10738)] [[Project](https://lzhxmu.github.io/accdiffusion/accdiffusion.html)] [[Code](https://github.com/lzhxmu/AccDiffusion)]
 
 #### Learning Differentially Private Diffusion Models via Stochastic Adversarial Distillation
 Bochao Liu, Pengju Wang, Shiming Ge*
-<br>[arXiv](https://arxiv.org/abs/2408.14738) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2408.14738)]
 
 #### Prompting Future Driven Diffusion Model for Hand Motion Prediction
 Bowen Tang*, Kaihao Zhang*, Wenhan Luo*, Wei Liu, HONGDONG LI
-<br>[arXiv](https://eccv.ecva.net/virtual/2024/poster/653) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01102.pdf)] [[Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/653.png?t=1725929440.8208065)] 
 
 #### ColorPeel: Color Prompt Learning with Diffusion Models via Color and Shape Disentanglement
 Muhammad Atif Butt*, Kai Wang, Javier Vazquez-Corral, Joost van de Weijer
-<br>[arXiv](https://arxiv.org/abs/2407.07197) [[Project]()] [[Code]()] [[Poster]()] [[Slides]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2407.07197)] [[Project](https://moatifbutt.github.io/colorpeel/)] [[Code](https://github.com/moatifbutt/color-peel)] [[Poster](https://github.com/moatifbutt/color-peel/blob/main/assets/ECCV2024_ColorPeel_.pdf)]
 
 #### DiffiT: Diffusion Vision Transformers for Image Generation
 Ali Hatamizadeh*, Jiaming Song, Guilin Liu, Jan Kautz, Arash Vahdat
