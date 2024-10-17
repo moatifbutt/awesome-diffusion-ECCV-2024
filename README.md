@@ -208,31 +208,31 @@ Hyogon Ryu, Seohyun Lim, Hyunjung Shim*
 
 #### COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimation
 Jiefeng Li*, Ye Yuan, Davis Rempe, Haotian Zhang, Pavlo Molchanov, Cewu Lu, Jan Kautz, Umar Iqbal*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.16426) [[Project]()] [[Code]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2408.16426)
 
 #### FreeCompose: Generic Zero-Shot Image Composition with Diffusion Prior
 Zhekai Chen, Wen Wang, Zhen Yang, Zeqing Yuan, Hao Chen*, Chunhua Shen*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.04947) [[Project]()] [[Code]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.04947) [[Code](https://github.com/aim-uofa/FreeCompose)] [[Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/297.png?t=1725802844.8353653)] [[Slides](https://eccv.ecva.net/media/eccv-2024/Slides/297.pdf)]
 
 #### WildVidFit: Video Virtual Try-On in the Wild via Image-Based Controlled Diffusion Models
 Zijian He, Peixin Chen, Guangrun Wang, Guanbin Li*, Philip Torr, Liang Lin
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.10625) [[Project]()] [[Code]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.10625) [[Project](https://wildvidfit-project.github.io/)] [[Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/2494.png?t=1726192744.396735)]
 
 #### RegionDrag: Fast Region-Based Image Editing with Diffusion Models
 Jingyi Lu, Xinghui Li, Kai Han*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.18247) [[Project]()] [[Code]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2407.18247) [[Project](https://visual-ai.github.io/regiondrag/)] [[Demo](https://colab.research.google.com/drive/1pnq9t_1zZ8yL_Oba20eBLVZLp3glniBR?usp=sharing)] [[Code](https://github.com/Visual-AI/RegionDrag)] [[Slides](https://eccv.ecva.net/media/eccv-2024/Slides/1756_57T8SZT.pdf)] [[Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/1756.png?t=1726153953.1186402)] [[Dataset](https://visual-ai.github.io/regiondrag/#dataset)]
 
 #### MagDiff: Multi-Alignment Diffusion for High-Fidelity Video Generation and Editing
 Haoyu Zhao, Tianyi Lu, Jiaxi Gu, Xing Zhang, Qingping Zheng, Zuxuan Wu*, Hang Xu, Yu-Gang Jiang
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2311.17338) [[Project]()] [[Code]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://arxiv.org/abs/2311.17338)] [[Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/665.png?t=1726062032.621387)]
 
 #### Mutual Learning for Acoustic Matching and Dereverberation via Visual Scene-driven Diffusion
 Jian Ma, Wenguan Wang*, Yi Yang, Feng Zheng
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.arxiv.org/abs/2407.10373) [[Project]()] [[Code]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [[arXiv](https://www.arxiv.org/abs/2407.10373)] [[Project](https://hechang25.github.io/MVSD/)] [[Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/1096.png?t=1726061514.9066596)] [[Code](https://github.com/hechang25/MVSD)]
 
 #### SEDiff: Structure Extraction for Domain Adaptive Depth Estimation via Denoising Diffusion Models
 Dongseok Shim*, Hyoun Jin Kim*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02829.pdf) [[Project]()] [[Code]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02829.pdf) [[Poster](https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/973.png?t=1726087766.2618341)]
 
 #### MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model
 Muyao Niu, Xiaodong Cun*, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng*
