@@ -156,11 +156,11 @@ Rolandos Alexandros Potamias*, Michael Tarasiou, Stylianos Ploumpis, Stefanos Za
 
 #### Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing
 Wonjun Kang, Kevin Galim, Hyung Il Koo*
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.09468) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.09468) [[Code](https://github.com/furiosa-ai/eta-inversion)] [[Data]()] [[Video](https://www.youtube.com/watch?v=NwqK9p4GKlo)]
 
 #### MixDQ: Memory-Efficient Few-Step Text-to-Image Diffusion Models with Metric-Decoupled Mixed Precision Quantization
 Tianchen Zhao*, Xuefei Ning, Tongcheng Fang, Enshu Liu, Guyue Huang, Zinan Lin, Shengen Yan, Guohao Dai, Yu Wang
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2405.17873) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2405.17873) [[Project](https://a-suozhang.xyz/mixdq.github.io/)] [[Code](https://github.com/A-suozhang/MixDQ)] [[Huggingface](https://huggingface.co/nics-efc/MixDQ)]
 
 #### RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models
 Bowen Zhang, Yiji Cheng, Chunyu Wang*, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo
