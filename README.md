@@ -152,7 +152,7 @@ Seunggeun Chi*, Hyung-gun Chi, Hengbo Ma, Nakul Agarwal, Faizan Siddiqui, Karthi
 
 #### Shapefusion: 3D localized human diffusion models
 Rolandos Alexandros Potamias*, Michael Tarasiou, Stylianos Ploumpis, Stefanos Zafeiriou
-<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.19773) [[Project]()] [[Code]()] [[Data]()] [[Demo]()]
+<br> ![Poster Badge](https://img.shields.io/badge/Poster-purple) [arXiv](https://arxiv.org/abs/2403.19773) [[Project](https://rolpotamias.github.io/Shapefusion/)]
 
 #### Eta Inversion: Designing an Optimal Eta Function for Diffusion-based Real Image Editing
 Wonjun Kang, Kevin Galim, Hyung Il Koo*
